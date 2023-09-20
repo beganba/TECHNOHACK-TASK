@@ -1,0 +1,69 @@
+body{
+    padding: 0%;
+    margin: 0%;
+    display: flex;
+}
+
+form .fg input{
+    align-content:center;
+    padding: 5px;
+
+}
+sup{
+    color: red;
+}
+
+.imgcontainer img{
+    height: 100vh;
+    width: 130vh;
+   
+}
+
+.regcontainer .fg {
+  
+    height: 60vh;
+   /* text-align: right; */
+   
+}
+
+
+.regcontainer .fg input{
+    /* width: 200px; */
+    /* background: #000; */
+    align-items: flex-end; 
+}
+button{
+    background-color: rgb(74, 74, 157);
+    margin-left: 50px;
+    padding: 10px;
+    color: rgb(243, 243, 243);
+    width: 80px;
+    text-align: center;
+    margin-top: 10px;
+    border-radius: 15%;
+   
+ 
+}
+
+  form i {
+      margin-left: -30px;
+      cursor: pointer;
+  }
+
+
+fieldset{
+    margin-top: 50px;
+    background: #eeb7b7;
+
+    padding: 20px;
+    border-radius: 10%;
+    box-shadow: 5px 5px 5px rgb(192, 107, 107);
+
+}
+fieldset legend{
+    
+    color: black;
+    font-weight: bolder;
+    border: none;
+    margin-left: 20px;
+}
